@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [],
@@ -392,7 +392,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "OM-DEV-Kit.kicad_pro",
+    "filename": "OM-EPSC3-Micro.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -427,9 +427,9 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "specctra_dsn": "OM-EPSC3-Micro.dsn",
+      "step": "OM-EPSC3-Micro22.step",
+      "vrml": "OM-EPSC3-Micro.wrl"
     },
     "page_layout_descr_file": ""
   },
@@ -469,7 +469,7 @@
   },
   "sheets": [
     [
-      "aa5875c6-6697-4680-b6bc-9f10921a872a",
+      "c7fe26ae-9505-4931-9cd8-090fc73447cd",
       ""
     ]
   ],
